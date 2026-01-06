@@ -18,7 +18,7 @@ The project follows Object-Oriented Programming (OOP) principles and applies sta
 ---
 
 ## Project Structure
-
+```
 bank_risk_analyzer/
 │
 ├── main.py
@@ -72,3 +72,4 @@ bank_risk_analyzer/
 │
 └── README.md
     Project documentation and usage instructions.
+```
