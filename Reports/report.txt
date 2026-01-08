@@ -1,1 +1,16 @@
+Bank Transaction Risk Analysis Report
+========================================
+
+Top High & Critical Risk Customers:
+
+Customer: C256397271 | Risk Level: Critical | Risk Score: 683.10
+Customer: C1741076564 | Risk Level: Critical | Risk Score: 573.41
+Customer: C385076757 | Risk Level: Critical | Risk Score: 448.68
+Customer: C203919132 | Risk Level: Critical | Risk Score: 338.95
+Customer: C314740639 | Risk Level: Critical | Risk Score: 275.13
+Customer: C1255901219 | Risk Level: Critical | Risk Score: 221.38
+Customer: C1886544249 | Risk Level: Critical | Risk Score: 215.90
+Customer: C386037606 | Risk Level: Critical | Risk Score: 200.45
+Customer: C1604877964 | Risk Level: Critical | Risk Score: 198.74
+Customer: C1935005426 | Risk Level: Critical | Risk Score: 192.09
 
